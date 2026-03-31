@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "cleanUrls": true,
+  "regions": ["cdg1"], 
+  "trailingSlash": false
+}
